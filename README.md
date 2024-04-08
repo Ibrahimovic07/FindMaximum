@@ -51,12 +51,12 @@ def max_marks(marks):
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
 
-![alt text](<Screenshot 2024-04-09 043852-1.png>)
+![alt text](<Screenshot 2024-04-09 043852.png>)
 
 
 ii)	# To find the maximum marks using the list method max().
 
-![alt text](<Screenshot 2024-04-09 044012-1.png>)
+![alt text](<Screenshot 2024-04-09 044012.png>)
 
 
 iii) # To find the maximum marks without using builtin functions.
